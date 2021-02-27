@@ -1,0 +1,8 @@
+.person-card {
+    border: 2px solid gray;
+    width: 300px;
+    margin: 10px 0 10px;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
